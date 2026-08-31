@@ -152,9 +152,11 @@
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkat-chinni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
+📌 My GitHub profile reflects my ongoing journey of learning, building, and contributing to software projects.
+
+💻 I continuously work on improving my coding skills through practical projects.
+
+🚀 Every repository represents another step in my development journey.
 
 ---
 
@@ -167,10 +169,6 @@
 ---
 
 # 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-chinni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
 ### 💻 Languages I Work With
 
