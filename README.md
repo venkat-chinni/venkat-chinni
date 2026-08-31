@@ -172,6 +172,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-chinni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+### 💻 Languages I Work With
+
+| 🧑‍💻 Language | 🔧 What I Use It For |
+|---|---|
+| 🐍 **Python** | 🤖 AI, Machine Learning, Data Analysis & Backend Development |
+| ⚡ **JavaScript** | 🌐 Interactive Web Applications & Frontend Development |
+| 🌐 **HTML** | 🏗️ Building Web Page Structure |
+| 🎨 **CSS** | ✨ Styling, Layouts, Animations & Responsive Design |
+| 🗄️ **SQL** | 📊 Database Management & Data Handling |
+
+### 📌 My Development Focus
+
+🐍 **Python** → AI/ML + Data + Backend
+
+⚡ **JavaScript** → Interactive Web Applications
+
+🌐 **HTML + CSS** → Modern & Responsive Interfaces
+
+🗄️ **SQL** → Database & Data Management
+
+🚀 **Full Stack** → Connecting Frontend + Backend + Database
+
 ---
 
 # 📚 Currently Learning
@@ -280,7 +302,15 @@
 
 <p align="center">
 
-💡 <b>Think</b> → 🧠 <b>Learn</b> → 💻 <b>Build</b> → 🐛 <b>Debug</b> → 🚀 <b>Improve</b>
+💡 <b>Think</b>
+&nbsp;→&nbsp;
+🧠 <b>Learn</b>
+&nbsp;→&nbsp;
+💻 <b>Build</b>
+&nbsp;→&nbsp;
+🐛 <b>Debug</b>
+&nbsp;→&nbsp;
+🚀 <b>Improve</b>
 
 </p>
 
@@ -298,21 +328,21 @@
 
 <p align="center">
 
-💡 Solve Problems  
+💡 Solve Problems
 <br>
-➕  
+➕
 <br>
-🧠 Apply Knowledge  
+🧠 Apply Knowledge
 <br>
-➕  
+➕
 <br>
-💻 Improve Skills  
+💻 Improve Skills
 <br>
-➕  
+➕
 <br>
-🌍 Create Real-World Value  
+🌍 Create Real-World Value
 <br>
-⬇️  
+⬇️
 <br>
 🚀 <b>Build Meaningful Projects</b>
 
@@ -360,11 +390,21 @@
 
 ---
 
+# 💬 Final Message
+
+<p align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+### 💻 Code with Purpose • 🤖 Build with Intelligence • 🌱 Grow Every Day
+
+</p>
+
+---
+
 <p align="center">
 
 ## ⭐ Thanks for visiting my GitHub profile!
-
-### 🚀 Keep Learning • Keep Building • Keep Growing
 
 ### 👋 See you in the next project!
 
