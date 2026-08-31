@@ -219,11 +219,11 @@
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/krishna-chinni-381874282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"/>
 </a>
 
 <a href="YOUR_INSTAGRAM_URL">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white(https://www.instagram.com/urstruly_krishna_623/?utm_source=qr&r=nametag)"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
